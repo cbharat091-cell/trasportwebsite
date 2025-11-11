@@ -1,0 +1,6 @@
+- [x] Update page title to "Mahavir Tempo Services - To every direction"
+- [x] Replace all "Transportio" with "Mahavir Tempo Services" in logos and footer
+- [x] Update header contact: change label to "Free Call In India", phone to 9724584666, and add address below
+- [x] Update footer copyright to "Mahavir Tempo Services"
+- [x] Add Instagram account link to footer social media
+- [x] Add peaceful Lord Mahavira image to make website more attractive
